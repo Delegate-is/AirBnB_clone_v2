@@ -1,3 +1,5 @@
+## 0x03. AirBnB clone - Deploy static
+## DevOps, Python, SysAdmin, Scripting, CI/CD
 ## AirBnB Clone - MySQL
 ## This project was done by team of two Tyrone kasiba and kelvin Njua
 
